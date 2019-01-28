@@ -1,2 +1,3 @@
 # tagjack
-Static external template content appender in javascript
+
+This library provide a framework to load external files into an HTML page with javascript (currenly use jquery).
